@@ -13,8 +13,11 @@ into data analytics.
 
 ## Skills in Progress
 | SQL | 🟡 Learning |
+
 | Power BI | 🟡 Learning |
+
 | Python (pandas) | 🔴 Starting soon |
+
 | Power Query | 🟢 Completed |
 
 ## Projects
