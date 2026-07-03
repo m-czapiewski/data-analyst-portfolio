@@ -9,7 +9,7 @@ into data analytics.
   reporting — SAP & advanced Excel
 - 🎓 MSc in Business Analytics | BSc in Finance & Accounting
 - 📍 Lublin, Poland (open to remote)
-- 🔗 [LinkedIn](www.linkedin.com/in/michał-czapiewski-215797217)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/micha%C5%82-czapiewski-215797217/)
 
 ## Skills in Progress
 | SQL | 🟡 Learning |
